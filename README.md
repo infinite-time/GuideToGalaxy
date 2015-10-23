@@ -1,2 +1,2 @@
 # GuideToGalaxy
-An example to program to demonstrate object oriented programming
+An example program to demonstrate object oriented programming
