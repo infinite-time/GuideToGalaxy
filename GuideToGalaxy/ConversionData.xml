@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conversiondata>
+  
+  <symbols type ="Roman">
+    <symbol>
+      <name>I</name>
+      <value>1</value>
+      <succesiverepetition>3</succesiverepetition>
+    </symbol>
+      <symbol>
+      <name>V</name>
+      <value>5</value>
+    </symbol>
+    <symbol>
+      <name>X</name>
+      <value>10</value>
+      <succesiverepetition>3</succesiverepetition>
+    </symbol>
+    <symbol>
+      <name>L</name>
+      <value>5</value>
+    </symbol>
+    <symbol>
+      <name>C</name>
+      <value>100</value>
+      <succesiverepetition>3</succesiverepetition>
+    </symbol>
+    <symbol>
+      <name>D</name>
+      <value>500</value>
+    </symbol>
+    <symbol>
+      <name>M</name>
+      <value>1000</value>
+      <succesiverepetition>3</succesiverepetition>
+    </symbol>
+  </symbols>
+
+  <question>
+    <separator>is</separator>
+  </question>
+
+</conversiondata>
